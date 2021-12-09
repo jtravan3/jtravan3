@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jtravan3&label=Profile%20views&color=0e75b6&style=flat" alt="jtravan3" /> </p>
 
-- 🔭 I’m currently working on [EHR Integrations with Redox](https://redoxengine.com)
+- 🔭 I’m currently working on [EHR Integrations with Tabula Rasa HealthCare](https://www.tabularasahealthcare.com/)
 
-- 🌱 I’m currently **finishing a Ph.D. in Computer Science**
+- 🌱 I just **finished a Ph.D. in Computer Science**
 
 - 💬 Ask me about **Java, Spring Boot, Camel, API's, OOP**
 
 - 📫 How to reach me **john@jtravan.com**
 
-- ⚡ Fun fact **I'm a powerlifter**
+- ⚡ Fun fact **I'm a powerlifter and a photographer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
